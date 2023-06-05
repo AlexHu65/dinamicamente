@@ -1,0 +1,56 @@
+@font-face {
+    font-family: 'Antenna';
+    src: url('Antenna-Black.woff2') format('woff2'),
+        url('Antenna-Black.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Antenna';
+    src: url('Antenna-Light.woff2') format('woff2'),
+        url('Antenna-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Antenna';
+    src: url('Antenna-Regular.woff2') format('woff2'),
+        url('Antenna-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Antenna';
+    src: url('Antenna-ExtraLight.woff2') format('woff2'),
+        url('Antenna-ExtraLight.woff') format('woff');
+    font-weight: 200;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Antenna';
+    src: url('Antenna-Thin.woff2') format('woff2'),
+        url('Antenna-Thin.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Antenna';
+    src: url('Antenna-Medium.woff2') format('woff2'),
+        url('Antenna-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Antenna';
+    src: url('Antenna-Bold.woff2') format('woff2'),
+        url('Antenna-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+

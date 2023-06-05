@@ -1,0 +1,369 @@
+@media only screen
+and (min-device-width : 1024px)
+and (max-device-width : 1050px) {
+
+  #categoriasJuvenil .img-juvenil .titulo {
+    position: absolute;
+    top: 10%;
+    padding: 24% 21%;
+    margin: auto;
+  }
+  #instagram .instagram-info .instagram-logo {
+    position: initial;
+    left: 24%;
+    top: 65%;
+  }
+  .item-articulo{
+    padding: 5px 10px !important;
+  }
+  .item-cat-parental:first-child{
+
+    border-radius: 0px 0px 0px 0px
+  }
+  .item-cat-parental:last-child{
+    border-radius: 0px 0px 0px 0px
+
+  }
+
+}
+
+@media only screen
+and (min-device-width : 768px)
+and (max-device-width : 800px) {
+
+  header{
+    height: 100px;
+    position: relative !important;
+    background: rgba(65, 65, 65, 1);
+  }
+
+  .card-radius-img{
+    width: 100% !important;
+
+  }
+  .uk-card-body{
+    padding: 15px !important;
+    width: 100% !important;
+  }
+  .h32{
+    height: 0px !important;
+  }
+  .uk-card-body-custom{
+    min-height: 275px !important;
+  }
+
+  .desktop{
+    display: none !important;
+  }
+  .mobile{
+    display: block;
+  }
+  .item-articulo{
+    padding: 5px 20px !important;
+  }
+  .button-plus {
+    position: absolute;
+    top: 119px;
+    right: 10px;
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+    text-align: center;
+    padding: 10px;
+    font-weight: bold;
+    color: #fff;
+    font-size: 20px;
+  }
+  .uk-card{
+    box-shadow: none !important
+  }
+  .telefono-footer{
+    margin-bottom: 15px;
+  }
+  .informacion{
+    margin: 20px 0px !important;
+    padding: 0px;
+
+  }
+  #instagram .instagram-info .instagram-logo{
+    position: initial !important;
+  }
+  #categoriasJuvenil .img-juvenil .titulo {
+    position: absolute;
+    top: 10%;
+    padding: 24% 21%;
+    margin: auto;
+  }
+  .item-cat-parental:first-child{
+
+    border-radius: 0px 0px 0px 0px
+  }
+  .item-cat-parental:last-child{
+    border-radius: 0px 0px 0px 0px
+
+  }
+  #tituloCovid{
+    margin:0;
+    font-size:13pt;
+
+  }
+  #parrafoCovid{
+    line-height:1.2;
+    font-size:12pt;
+
+  }
+  #spanCovid{
+    font-size: 20pt;
+  }
+}
+
+@media only screen
+and (min-device-width : 425px)
+and (max-device-width : 500px) {
+
+  header{
+    height: 100px;
+    position: relative !important;
+    background: rgba(65, 65, 65, 1);
+  }
+
+  .card-radius-img{
+    width: 100% !important;
+
+  }
+  .uk-card-body{
+    padding: 15px !important;
+    width: 100% !important;
+  }
+  .h32{
+    height: 0px !important;
+  }
+  .uk-card-body-custom{
+    min-height: 275px !important;
+  }
+
+  .desktop{
+    display: none !important;
+  }
+  .mobile{
+    display: block;
+  }
+  .item-articulo{
+    padding: 5px 20px !important;
+  }
+  .button-plus {
+    position: absolute;
+    top: 119px;
+    right: 10px;
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+    text-align: center;
+    padding: 10px;
+    font-weight: bold;
+    color: #fff;
+    font-size: 20px;
+  }
+  .uk-card{
+    box-shadow: none !important
+  }
+  .telefono-footer{
+    margin-bottom: 15px;
+  }
+  .informacion{
+    margin: 20px 0px !important;
+    padding: 0px;
+
+  }
+  #instagram .instagram-info .instagram-logo{
+    position: initial !important;
+  }
+  .item-cat-parental:first-child{
+
+    border-radius: 0px 0px 0px 0px
+  }
+  .item-cat-parental:last-child{
+    border-radius: 0px 0px 0px 0px
+
+  }
+  #tituloCovid{
+    margin:0;
+    font-size:13pt;
+
+  }
+  #parrafoCovid{
+    line-height:1.2;
+    font-size:12pt;
+
+  }
+  #spanCovid{
+    font-size: 20pt;
+  }
+}
+
+@media only screen
+and (min-device-width : 345px)
+and (max-device-width : 424px) {
+
+  header{
+    height: 100px;
+    position: relative !important;
+    background: rgba(65, 65, 65, 1);
+  }
+
+  .card-radius-img{
+    width: 100% !important;
+
+  }
+  .uk-card-body{
+    padding: 15px !important;
+    width: 100% !important;
+  }
+  .h32{
+    height: 0px !important;
+  }
+  .uk-card-body-custom{
+    min-height: 275px !important;
+  }
+
+  .desktop{
+    display: none !important;
+  }
+  .mobile{
+    display: block;
+  }
+  .item-articulo{
+    padding: 5px 20px !important;
+  }
+  .button-plus {
+    position: absolute;
+    top: 119px;
+    right: 10px;
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+    text-align: center;
+    padding: 10px;
+    font-weight: bold;
+    color: #fff;
+    font-size: 20px;
+  }
+  .uk-card{
+    box-shadow: none !important
+  }
+  .telefono-footer{
+    margin-bottom: 15px;
+  }
+  .informacion{
+    margin: 20px 0px !important;
+    padding: 0px;
+
+  }
+  #instagram .instagram-info .instagram-logo{
+    position: initial !important;
+  }
+  .item-cat-parental:first-child{
+
+    border-radius: 0px 0px 0px 0px
+  }
+  .item-cat-parental:last-child{
+    border-radius: 0px 0px 0px 0px
+
+  }
+  #tituloCovid{
+    margin:0;
+    font-size:13pt;
+
+  }
+  #parrafoCovid{
+    line-height:1.2;
+    font-size:12pt;
+
+  }
+  #spanCovid{
+    font-size: 20pt;
+  }
+}
+
+@media only screen
+and (min-device-width : 320px)
+and (max-device-width : 325px) {
+
+  header{
+    height: 100px;
+    position: relative !important;
+    background: rgba(65, 65, 65, 1);
+  }
+
+  .card-radius-img{
+    width: 100% !important;
+
+  }
+  .uk-card-body{
+    padding: 15px !important;
+    width: 100% !important;
+  }
+  .h32{
+    height: 0px !important;
+  }
+  .uk-card-body-custom{
+    min-height: 275px !important;
+  }
+
+  .desktop{
+    display: none !important;
+  }
+  .mobile{
+    display: block;
+  }
+  .item-articulo{
+    padding: 5px 20px !important;
+  }
+  .button-plus {
+    position: absolute;
+    top: 119px;
+    right: 10px;
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+    text-align: center;
+    padding: 10px;
+    font-weight: bold;
+    color: #fff;
+    font-size: 20px;
+  }
+  .uk-card{
+    box-shadow: none !important
+  }
+  .telefono-footer{
+    margin-bottom: 15px;
+  }
+  .informacion{
+    margin: 20px 0px !important;
+    padding: 0px;
+  }
+  #instagram .instagram-info .instagram-logo{
+    position: inherit !important;
+  }
+  .item-cat-parental:first-child{
+
+    border-radius: 0px 0px 0px 0px
+  }
+  .item-cat-parental:last-child{
+    border-radius: 0px 0px 0px 0px
+
+  }
+  #tituloCovid{
+    margin:0;
+    font-size:13pt;
+
+  }
+  #parrafoCovid{
+    line-height:1.2;
+    font-size:12pt;
+
+  }
+  #spanCovid{
+    font-size: 20pt;
+  }
+}
